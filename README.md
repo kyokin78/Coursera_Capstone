@@ -10,7 +10,7 @@ towards data science:
 Complete Jupyter Notebook Output in nbviewer:  
 [Capstone Project - Open a Movie Theater in Montreal (nbviewer)](https://nbviewer.jupyter.org/github/kyokin78/Coursera_Capstone/blob/project/CapstoneProject_OpenCinemaInMontreal.ipynb)
 
-Github original Juypter Notebook view, folium map is disabled:  
+Github original Jupyter Notebook view, folium map is disabled:  
 [Capstone Project - Open a Movie Theater in Montreal](https://github.com/kyokin78/Coursera_Capstone/blob/project/CapstoneProject_OpenCinemaInMontreal.ipynb)
 
 ![5 best choices](./screenshots/recommendations.png)
